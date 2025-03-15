@@ -1,9 +1,9 @@
-# Fabric Analyzer
+# WeaveWise
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 ## Overview
 
-Fabric Analyzer is an intelligent web application designed to optimize yarn selection for fabric manufacturing. The tool helps textile manufacturers find the most suitable yarn combinations based on desired fabric properties and suggests alternative production methods using different yarn types.
+WeaveWise is an intelligent web application designed to optimize yarn selection for fabric manufacturing. The tool helps textile manufacturers find the most suitable yarn combinations based on desired fabric properties and suggests alternative production methods using different yarn types.
 
 ## Key Features
 
