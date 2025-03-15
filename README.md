@@ -58,9 +58,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
-## 📬 Contact
-
-For any queries regarding the website, please reach out through the contact form on the website or create an issue in this repository.
 
 ---
 ⭐ Don't forget to star the repository if you find it useful!
